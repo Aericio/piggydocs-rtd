@@ -1,0 +1,14 @@
+/** expand content by 200px */
+.wy-nav-content {
+    max-width: 1000px
+}
+
+/** remove bottom margin from lists */
+.rst-content ol.arabic {
+    margin-bottom: 0
+}
+
+/** compensate for bottom margin lost in lists */
+.rst-content ol.simple {
+    margin-bottom: 24px
+}

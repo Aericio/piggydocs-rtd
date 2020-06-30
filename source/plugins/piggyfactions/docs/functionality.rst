@@ -1,0 +1,7 @@
+Functionality
+=============
+
+.. toctree::
+    :glob:
+
+    functionality/*
