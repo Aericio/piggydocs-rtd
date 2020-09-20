@@ -21,10 +21,10 @@ Soft Dependencies
 
 * `PiggyCustomEnchants`_: 2.1.1+
 * `HRKChat`_: 1.1.1+
-* `PureChat`_: :download:`PR-15 <https://poggit.pmmp.io/r/88189/PureChat_pr-15.phar>`
+* `PureChat`_: :download:`PR-17 <https://poggit.pmmp.io/r/95436/PureChat_pr-17.phar>`
 
 .. note::
-    You **must** use Poggit-CI :guilabel:`PR-15` build for PureChat support and set ``default-factions-plugin`` to ``PiggyFactions``.
+    You **must** use Poggit-CI :guilabel:`PR-17` build for PureChat support and set ``default-factions-plugin`` to ``PiggyFactions``.
     All other syntax remains the same. You can modify the rank symbols in PiggyFaction's ``config.yml``.
 
 .. note::

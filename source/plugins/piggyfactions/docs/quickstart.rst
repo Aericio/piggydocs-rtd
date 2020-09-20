@@ -38,7 +38,7 @@ Configuration
 Setting up your Chat Provider
 -----------------------------
 
-Currently, only `HRKChat`_ and `PureChat`_ :guilabel:`PR-15` supports PiggyFactions.
+Currently, only `HRKChat`_ and `PureChat`_ :guilabel:`PR-17` supports PiggyFactions.
 
 HRKChat
 ~~~~~~~
@@ -94,7 +94,7 @@ PureChat
         worlds: []
 
 .. warning::
-    You **must** use Poggit-CI :download:`PR-15 <https://poggit.pmmp.io/r/88189/PureChat_pr-15.phar>` build for PureChat support and set ``default-factions-plugin`` to ``PiggyFactions``.
+    You **must** use Poggit-CI :download:`PR-17 <https://poggit.pmmp.io/r/95436/PureChat_pr-17.phar>` build for PureChat support and set ``default-factions-plugin`` to ``PiggyFactions``.
     All other syntax remains the same. You can modify the rank symbols in PiggyFaction's ``config.yml``.
 
 Setting up Safezones / Warzones

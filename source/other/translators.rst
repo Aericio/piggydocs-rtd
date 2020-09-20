@@ -37,21 +37,23 @@ PiggyFactions
 
     .. image:: https://www.transifex.com/projects/p/piggyfactions/resource/messagesyml/chart/image_png
 
-+-----------------------+-------------------------------------------+
-| Language              | Translators                               |
-+=======================+===========================================+
-| Chinese (Simplified)  | Taylarity, Aericio, TGPNG, prprprprprprpr |
-+-----------------------+-------------------------------------------+
-| Chinese (Traditional) | Taylarity, Aericio, TGPNG, prprprprprprpr |
-+-----------------------+-------------------------------------------+
-| German                | SalmonDE                                  |
-+-----------------------+-------------------------------------------+
-| Indonesian            | MrAshshiddiq, SillierShark195             |
-+-----------------------+-------------------------------------------+
-| Serbian               | yuriiscute53925                           |
-+-----------------------+-------------------------------------------+
-| Spanish               | UnEnanoMas                                |
-+-----------------------+-------------------------------------------+
++-----------------------+--------------------------------------------------+
+| Language              | Translators                                      |
++=======================+==================================================+
+| Chinese (Simplified)  | Taylarity, Aericio, TGPNG, prprprprprprpr        |
++-----------------------+--------------------------------------------------+
+| Chinese (Traditional) | Taylarity, Aericio, TGPNG, prprprprprprpr        |
++-----------------------+--------------------------------------------------+
+| French                | adeynes, ItsMax123, steelfri_031, superbobby2000 |
++-----------------------+--------------------------------------------------+
+| German                | SalmonDE                                         |
++-----------------------+--------------------------------------------------+
+| Indonesian            | MrAshshiddiq, SillierShark195                    |
++-----------------------+--------------------------------------------------+
+| Serbian               | yuriiscute53925                                  |
++-----------------------+--------------------------------------------------+
+| Spanish               | UnEnanoMas                                       |
++-----------------------+--------------------------------------------------+
 
 .. _Piggy Hangouts: https://discord.gg/qmnDsSD
 .. _Help Translate: https://www.transifex.com/piggyplugins/piggyfactions/

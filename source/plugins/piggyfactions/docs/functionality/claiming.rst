@@ -25,4 +25,4 @@ Overclaiming is when a faction claims over an existing claim that belonged to an
 
 .. _MassiveCraft's Factions: https://www.massivecraft.com/factions
 .. _overclaimed: /plugins/piggyfactions/docs/functionality/claiming.html#overclaiming
-.. _FactionsPro: https://poggit.pmmp.io/p/FactionsPro/1.3.11-6
+.. _FactionsPro: https://poggit.pmmp.io/p/FactionsPro
