@@ -13,7 +13,7 @@ Requirements
 
   * `DaPigGuy/libPiggyEconomy`_: 2.0.0+
   * `ParoxityTeam/Commando`_: 2.1.0+
-  * `poggit/libasynql`_: 3.3.0+
+  * `poggit/libasynql`_: 3.3.1+
   * `jojoe77777/FormAPI`_: 1.3+
 
 Soft Dependencies
@@ -22,6 +22,7 @@ Soft Dependencies
 * `PiggyCustomEnchants`_: 2.1.1+
 * `HRKChat`_: 1.1.1+
 * `PureChat`_: :download:`PR-17 <https://poggit.pmmp.io/r/95436/PureChat_pr-17.phar>`
+* `ScoreHud`_: 6.1.0+
 
 .. note::
     You **must** use Poggit-CI :guilabel:`PR-17` build for PureChat support and set ``default-factions-plugin`` to ``PiggyFactions``.
@@ -39,3 +40,4 @@ Soft Dependencies
 .. _PiggyCustomEnchants: https://poggit.pmmp.io/p/PiggyCustomEnchants
 .. _HRKChat: https://github.com/CortexPE/HRKChat
 .. _PureChat: https://github.com/Heisenburger69/PureChat
+.. _ScoreHud: https://poggit.pmmp.io/p/ScoreHud

@@ -13,4 +13,4 @@ DTR / Death to Raidable?
 
 This will be created in a separate addon for PiggyFactions. We do not have an ETA for the addon currently since it's low priority.
 
-.. _Claiming#Overclaiming: /plugins/piggyfactions/docs/functionality/claiming.html#overclaiming
+.. _Claiming#Overclaiming: functionality/claiming.html#overclaiming
